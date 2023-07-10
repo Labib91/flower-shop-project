@@ -30,6 +30,7 @@ body {
   border-radius: 8px;
   background: #e55473;
 }
+
 /* header style here */
 header {
   display: flex;
@@ -184,4 +185,32 @@ input[type="email"] {
   margin-top: -192px;
   position: absolute;
   z-index: -1;
+}
+/* footer style here */
+
+footer {
+  background: #111010;
+  margin-top: 160px;
+}
+.footer-section {
+  text-align: center;
+  margin-top: 50px;
+  padding: 10%;
+}
+.f-text {
+  color: #fff;
+  font-size: 48px;
+  font-weight: 800;
+}
+.f-des {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.f-des2 {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 50px;
 }
