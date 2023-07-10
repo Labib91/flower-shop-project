@@ -36,8 +36,16 @@ header {
   margin-top: 100px;
   margin-left: 70px;
 }
-.header-content button{
-    margin-top: 30px;
+.header-content button {
+  margin-top: 30px;
+  border: 0;
+  color: #fff;
+}
+.header-content button:hover {
+  cursor: pointer;
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #000;
 }
 .head-title {
   color: #272727;
