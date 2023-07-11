@@ -183,17 +183,30 @@ span {
   margin-top: 10px;
   padding: 10px;
 }
+.box-shadow:hover{
+  box-shadow: 10px 10px 5px rgb(43, 44, 44);
+}
 
 /* get the latest deals style here */
 
 input[type="email"] {
   height: 52px;
-  width: 450px;
-  border: 0px;
-  background-color: #fff;
-  margin-left: 416px;
-  margin-top: 30px;
+    width: 450px;
+    border: 0px;
+    border-radius: 8px;
+    background-color: #fff;
+    margin-left: 416px;
+    margin-top: 30px;
 }
+::placeholder {
+padding: 10px;
+}
+input[type="submit"]:hover{
+background-color: #fff;
+color: #000;
+cursor: pointer;
+}
+
 .get {
   position: relative;
 }
