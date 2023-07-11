@@ -181,9 +181,9 @@ span {
   width: 260px;
   height: 243px;
   margin-top: 10px;
-  padding: 10px;
+  padding: 5px;
 }
-.box-shadow:hover{
+.box-shadow:hover {
   box-shadow: 10px 10px 5px rgb(43, 44, 44);
 }
 
@@ -191,20 +191,20 @@ span {
 
 input[type="email"] {
   height: 52px;
-    width: 450px;
-    border: 0px;
-    border-radius: 8px;
-    background-color: #fff;
-    margin-left: 416px;
-    margin-top: 30px;
+  width: 450px;
+  border: 0px;
+  border-radius: 8px;
+  background-color: #fff;
+  margin-left: 416px;
+  margin-top: 30px;
 }
 ::placeholder {
-padding: 10px;
+  padding: 10px;
 }
-input[type="submit"]:hover{
-background-color: #fff;
-color: #000;
-cursor: pointer;
+input[type="submit"]:hover {
+  background-color: #fff;
+  color: #000;
+  cursor: pointer;
 }
 
 .get {
@@ -212,7 +212,7 @@ cursor: pointer;
 }
 .bg-img img {
   height: 275px;
-  width: 1124px;
+  width: 1090px;
   text-align: center;
   margin-left: 125px;
   margin-top: -192px;
