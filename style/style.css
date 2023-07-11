@@ -179,10 +179,10 @@ span {
 }
 .gallery-section img {
   width: 221px;
-    width: 252px;
-    eight: 276px;
-    padding: 2px;
-    margin-top: 10px;
+  width: 252px;
+  height: 276px;
+  padding: 2px;
+  margin-top: 10px;
 }
 .box-shadow:hover {
   box-shadow: 10px 10px 5px rgb(43, 44, 44);
